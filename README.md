@@ -1,16 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&height=80&lines=Hi!+I'm+Con"
+    alt="Typing SVG"
+  />
+</p>
 
-<!--
-**username252510/username252510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="text-align: center;">
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=username252510&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+  </a>
+</div>
