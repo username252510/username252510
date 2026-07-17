@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=username252510&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Stats" height="150" hspace="10" />
+  <img src="https://github-stats-extended.vercel.app/api?username=username252510&show_icons=true&include_all_commits=true&theme=dark&v=1" alt="GitHub Stats" height="150" hspace="10" />
   <img src="https://streak-stats.demolab.com?user=username252510&theme=dark&card_width=467" alt="GitHub Streak" height="150" hspace="10" />
 </p>
 
